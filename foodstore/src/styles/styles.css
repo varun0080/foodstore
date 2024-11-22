@@ -1,0 +1,127 @@
+.product-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); 
+    gap: 20px; 
+    justify-items: center; 
+    padding: 20px; 
+  }
+  
+  .product-image {
+    width: 250px; 
+    height: 250px; 
+    object-fit: cover; 
+    border-radius: 10px; 
+    margin-bottom: 15px; 
+  }
+  
+  .product-card {
+    border: 1px solid #ddd; 
+    border-radius: 10px; 
+    padding: 15px;
+    text-align: center;
+    width: 250px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px); 
+  }
+  
+  
+  .product-details,
+  .cart-item,
+  .wishlist-item {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    width: 50%; 
+    max-width: 600px; 
+    margin: 30px auto; 
+    background-color: #f9f9f9;
+  }
+  
+  
+  .product-details img,
+  .cart-item img,
+  .wishlist-item img {
+    display: block; 
+    margin: 0 auto; 
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 15px; 
+  }
+  
+  
+  .product-description {
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+    line-height: 1.6;
+  }
+  
+  
+  .product-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .product-button:hover {
+    background-color: #45a049;
+  }
+  
+ 
+  .view-details-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: #2196f3;
+    text-decoration: none;
+  }
+  
+  .view-details-link:hover {
+    text-decoration: underline;
+  }
+
+  /* Style for the total price section in the cart */
+.cart-total {
+    margin-top: 20px; /* Add some space above the total price */
+    padding: 10px;
+    border-top: 1px solid #ddd; /* Add a top border for separation */
+    text-align: right; /* Align text to the right */
+  }
+  
+  .cart-total h3 {
+    font-size: 24px;
+    color: #333;
+  }
+
+  .view-details-link {
+    display: inline-block; 
+    padding: 10px 20px; 
+    background-color: #007bff; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    font-weight: 600; 
+    transition: all 0.3s ease; 
+    margin-top: 10px; 
+    text-align: center; 
+  }
+  
+
+
+

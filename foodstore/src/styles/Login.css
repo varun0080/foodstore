@@ -1,0 +1,79 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('https://your-background-image-url.com') no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-form {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    text-align: center;
+  }
+  
+  .login-form h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .login-button {
+    background-color: #d9534f;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .login-button:hover {
+    background-color: #c9302c;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: -5px;
+  }
+  
+  .register-message {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+  
+  .register-link {
+    color: #337ab7;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .register-link:hover {
+    text-decoration: underline;
+  }
+  

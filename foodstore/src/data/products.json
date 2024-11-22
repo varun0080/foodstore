@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "A fresh and juicy apple.",
+      "detailedDescription": "A fresh and juicy apple, perfect for a healthy snack. Apples are rich in fiber and vitamins, making them a great addition to your daily diet. They can be eaten as a snack, added to salads, or used in desserts.",
+      "price": 1.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKk9JmPJZsXo7AmWJN7sKVHHqPcahsD9NqXA&s"
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "description": "A ripe banana with a sweet taste.",
+      "detailedDescription": "Ripe bananas with a sweet taste, great for smoothies or a quick bite. Bananas are rich in potassium and provide a quick source of energy. They are ideal for pre-workout snacks or to curb hunger cravings throughout the day.",
+      "price": 0.99,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ripe-yellow-bananas-at-the-shopping-market-fruits-royalty-free-image-1712833209.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Carrot",
+      "description": "Crunchy and delicious carrots.",
+      "detailedDescription": "Crunchy and delicious carrots, rich in vitamin A and perfect for salads. Carrots are a versatile vegetable that can be eaten raw, cooked, or blended into juices. They support healthy vision and skin.",
+      "price": 2.50,
+      "image": "https://www.jessicagavin.com/wp-content/uploads/2019/02/carrots-7-1200.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Broccoli",
+      "description": "Fresh and green broccoli florets.",
+      "detailedDescription": "Fresh and green broccoli florets, great for steaming or adding to stir-fries. Broccoli is high in fiber, vitamin C, and vitamin K, making it a nutritious addition to your meals. It pairs well with garlic and soy sauce.",
+      "price": 3.25,
+      "image": "https://detoxinista.com/wp-content/uploads/2021/03/instant-pot-steamed-broccoli-1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tomato",
+      "description": "Juicy red tomatoes full of flavor.",
+      "detailedDescription": "Juicy red tomatoes full of flavor, perfect for salads or sandwiches. Tomatoes are rich in antioxidants like lycopene, which may help reduce the risk of certain diseases. They are a staple ingredient in many cuisines.",
+      "price": 2.10,
+      "image": "https://images.pexels.com/photos/1327838/pexels-photo-1327838.jpeg?cs=srgb&dl=pexels-julia-nagy-568948-1327838.jpg&fm=jpg"
+    },
+    {
+      "id": 6,
+      "name": "Orange",
+      "description": "Citrusy and sweet oranges.",
+      "detailedDescription": "Citrusy and sweet oranges, packed with vitamin C for a refreshing snack. Oranges are perfect for juicing or eating as a quick snack. They support immune health and help keep your skin healthy and glowing.",
+      "price": 1.75,
+      "image": "https://www.allrecipes.com/thmb/y_uvjwXWAuD6T0RxaS19jFvZyFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1205638014-2000-d0fbf9170f2d43eeb046f56eec65319c.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Strawberry",
+      "description": "Fresh, red strawberries packed with nutrients.",
+      "detailedDescription": "Fresh, red strawberries packed with nutrients, perfect for desserts or snacking. Strawberries are a great source of vitamin C and antioxidants. They are delicious when paired with chocolate or added to smoothies.",
+      "price": 4.50,
+      "image": "https://clv.h-cdn.co/assets/15/22/2560x1728/gallery-1432664914-strawberry-facts1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Blueberry",
+      "description": "Sweet and tangy blueberries.",
+      "detailedDescription": "Sweet and tangy blueberries, a great source of antioxidants. Blueberries can be eaten fresh, added to cereals, or baked into muffins and cakes. They help improve memory and cognitive function.",
+      "price": 5.00,
+      "image": "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_22726_16560822540037952.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Potato",
+      "description": "Fresh potatoes perfect for any dish.",
+      "detailedDescription": "Fresh potatoes perfect for any dish, from mashed potatoes to fries. Potatoes are a versatile ingredient that can be boiled, fried, or baked. They are rich in carbohydrates and provide energy for daily activities.",
+      "price": 1.20,
+      "image": "https://cdn.mos.cms.futurecdn.net/iC7HBvohbJqExqvbKcV3pP-1200-80.jpg"
+    },
+    
+    {
+    "id": 10,
+    "name": "Watermelon",
+    "description": "Large and juicy watermelon slices.",
+    "detailedDescription": "Large and juicy watermelon slices, perfect for a refreshing summer snack. Watermelons are hydrating and low in calories, making them a great choice for hot weather. They are rich in vitamins A and C.",
+    "price": 7.25,
+    "image": "https://www.allrecipes.com/thmb/JlDNESmNA3QlJIVuXaQvRD4-gfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-ripe-watermelon-getty-4x3-2d1e62fdf6c547bea8d9f8f72e8aa175.jpg"
+    }
+   
+  ]
+  
